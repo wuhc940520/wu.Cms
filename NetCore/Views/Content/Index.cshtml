@@ -14,23 +14,24 @@
                 <td>标题</td>
                 <td>内容</td>
                 <td>添加时间</td>
-               <td>哈哈哈</td>
+                <td>哈哈哈</td>
+                <td>ddd</td>
             </tr>
         </thead>
 
         @foreach (var item in Model.Contents)
         {
-            <tr>
-                <td>
-                    <input type="checkbox" class="done-checkbox">
-                </td>
-                <td>@item.Id</td>
-                <td>@item.title</td>
-                <td>@item.content</td>
-                <td>@item.add_time</td>
-                <td>哈哈哈</td>
-
-            </tr>
+        <tr>
+            <td>
+                <input type="checkbox" class="done-checkbox">
+            </td>
+            <td>@item.Id</td>
+            <td>@item.title</td>
+            <td>@item.content</td>
+            <td>@item.add_time</td>
+            <td>哈哈哈</td>
+            <td>BBB</td>
+        </tr>
         }
     </table>
 </div>
