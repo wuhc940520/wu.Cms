@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28306.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore", "NetCore\NetCore.csproj", "{8BF256C9-51E0-4238-A59F-452408B26834}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample05", "Sample05\Sample05.csproj", "{088CFB65-6DAB-46BC-B853-A6105A2D7D68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample05", "Sample05\Sample05.csproj", "{088CFB65-6DAB-46BC-B853-A6105A2D7D68}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{D558C84D-1E93-4542-A807-5E631C1CF50D}"
 EndProject
@@ -17,25 +17,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entity", "Entity", "{04EE9A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{114511C6-9354-47E4-A50E-9ECE236CBCAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cms.Admin", "Cms.Admin\Cms.Admin.csproj", "{7D9A4ECA-7ABD-49C8-9F1E-BACAE0E83A98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cms.Admin", "Cms.Admin\Cms.Admin.csproj", "{7D9A4ECA-7ABD-49C8-9F1E-BACAE0E83A98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cms.Site", "Cms.Site\Cms.Site.csproj", "{AAABEB8E-2559-4353-BFDC-D2E9C0A3D3F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cms.Site", "Cms.Site\Cms.Site.csproj", "{AAABEB8E-2559-4353-BFDC-D2E9C0A3D3F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cms.Services", "Cms.Services\Cms.Services.csproj", "{BBCD45BA-8765-4264-8164-97996079E69C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cms.Services", "Cms.Services\Cms.Services.csproj", "{BBCD45BA-8765-4264-8164-97996079E69C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cms.IServices", "Cms.IServices\Cms.IServices.csproj", "{E23E1FE3-792C-4E66-AF4F-F807036A037F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cms.IServices", "Cms.IServices\Cms.IServices.csproj", "{E23E1FE3-792C-4E66-AF4F-F807036A037F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cms.Models", "Cms.Models\Cms.Models.csproj", "{DACC581B-18D3-4BE5-A84C-E7E1414F07EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cms.Models", "Cms.Models\Cms.Models.csproj", "{DACC581B-18D3-4BE5-A84C-E7E1414F07EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cms.ViewModels", "Cms.ViewModels\Cms.ViewModels.csproj", "{DE76BC23-1281-422F-9BDD-9CA45E52F0AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cms.ViewModels", "Cms.ViewModels\Cms.ViewModels.csproj", "{DE76BC23-1281-422F-9BDD-9CA45E52F0AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cms.Core", "Cms.Core\Cms.Core.csproj", "{9F9E29BE-2058-4EA8-8837-C8292D64AFC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cms.Core", "Cms.Core\Cms.Core.csproj", "{9F9E29BE-2058-4EA8-8837-C8292D64AFC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cms.Irepository", "Cms.Irepository\Cms.Irepository.csproj", "{E174113D-7CCF-473F-BE26-4DDC36C03945}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cms.Irepository", "Cms.Irepository\Cms.Irepository.csproj", "{E174113D-7CCF-473F-BE26-4DDC36C03945}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cms.Repository.SqlServer", "Cms.Repository.SqlServer\Cms.Repository.SqlServer.csproj", "{B50BAD55-5D44-4E0A-80B0-2B8E6FE172E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cms.Repository.SqlServer", "Cms.Repository.SqlServer\Cms.Repository.SqlServer.csproj", "{B50BAD55-5D44-4E0A-80B0-2B8E6FE172E6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{9A38FAFC-18BB-45C8-BF02-416D17506792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{05BB5C75-2F9B-44EE-B6C4-570F3AB760B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{B50BAD55-5D44-4E0A-80B0-2B8E6FE172E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B50BAD55-5D44-4E0A-80B0-2B8E6FE172E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B50BAD55-5D44-4E0A-80B0-2B8E6FE172E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05BB5C75-2F9B-44EE-B6C4-570F3AB760B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BB5C75-2F9B-44EE-B6C4-570F3AB760B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BB5C75-2F9B-44EE-B6C4-570F3AB760B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BB5C75-2F9B-44EE-B6C4-570F3AB760B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -101,6 +107,7 @@ Global
 		{9F9E29BE-2058-4EA8-8837-C8292D64AFC5} = {114511C6-9354-47E4-A50E-9ECE236CBCAC}
 		{E174113D-7CCF-473F-BE26-4DDC36C03945} = {4C1460F8-7514-45B1-A5F5-01E8958C5A53}
 		{B50BAD55-5D44-4E0A-80B0-2B8E6FE172E6} = {4C1460F8-7514-45B1-A5F5-01E8958C5A53}
+		{05BB5C75-2F9B-44EE-B6C4-570F3AB760B7} = {D558C84D-1E93-4542-A807-5E631C1CF50D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {92E58C43-D3DD-4372-B813-B8A5EC0A0DCA}
